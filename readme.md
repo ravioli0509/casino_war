@@ -1,3 +1,8 @@
-first_name: Ravindu
-last_name: Cooray
-Comment : This game is called the casino war. To play the game, play from the main.py (or click on debug) 
+# Casino War 
+- this is a simple card game that can be played in the terminal. 
+
+# Data Structure
+- In this game, Queue was heavily used
+
+# Running it
+- `python3 main.py`
